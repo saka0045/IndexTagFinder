@@ -1,0 +1,4 @@
+forward_tag=GGGTTCCCTAAGGGTTGGA
+forward_tag_reverse_compliment=TCCAACCCTTAGGGAACCC
+reverse_tag=GTGCCAGCAAGATCCAATCTAGA
+reverse_tag_reverse_compliment=TCTAGATTGGATCTTGCTGGCAC
